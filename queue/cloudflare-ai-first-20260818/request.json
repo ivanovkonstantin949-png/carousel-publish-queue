@@ -1,0 +1,14 @@
+{
+  "images": [
+    "slide_01.png",
+    "slide_02.png",
+    "slide_03.png",
+    "slide_04.png",
+    "slide_05.png",
+    "slide_06.png",
+    "slide_07.png",
+    "slide_08.png"
+  ],
+  "caption": "Cloudflare объявила о сокращении более 1 100 сотрудников при переходе к AI-first операционной модели. Урок для малого бизнеса не в размере сокращения: агент становится полезным только после того, как у задачи появился контур решения.\n\nИсточник события: https://blog.cloudflare.com/building-for-the-future/\nФото слайд 1: HaeB, Wikimedia Commons, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cloudflare_office_entrance_area.jpg",
+  "music": true
+}
